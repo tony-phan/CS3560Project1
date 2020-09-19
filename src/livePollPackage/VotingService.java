@@ -1,5 +1,6 @@
 package livePollPackage;
 
-public class VotingService {
-
+abstract class VotingService {
+	
+	public abstract void printResultStatistics();
 }
