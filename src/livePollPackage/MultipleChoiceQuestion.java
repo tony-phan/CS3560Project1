@@ -1,7 +1,13 @@
 package livePollPackage;
 
 public class MultipleChoiceQuestion extends Question {
+	
+	public MultipleChoiceQuestion(String question, String answer) {
+		this.setQuestion(question);
+		this.setAnswer(answer);
 
+	}
+	
 	@Override
 	public boolean isMultipleChoiceQuestion() {
 		// TODO Auto-generated method stub
