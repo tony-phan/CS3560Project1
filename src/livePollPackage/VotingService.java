@@ -1,45 +1,68 @@
 package livePollPackage;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Random;
 
 public class VotingService {
 	
-	List<Question> questions;
-	List<Student> participants;
+	private Random r = new Random();
+	private List<Question> questions;
+	private List<Student> participants;
+	final private String[] trueFalseAnswers = {"True", "False"};
+	final private String[] multipleChoiceAnswers = {"A", "B", "C", "D"};
 	
-	final char[] multipleChoiceAnswers = { 'A', 'B', 'C', 'D' };
-	final String[] trueFalseAnswers = { "True", "False" };
+	private	HashMap<String, String> studentAnswers = new HashMap<String, String>();
 	
 	public VotingService() {
 		questions = new ArrayList<Question>();
 		participants = new ArrayList<Student>();
 	}
-	
-	public void generateQuestionsAndParticipants() {
-		for(int i = 0; i < 4; i++) {
-			participants.add(new Student());
-		}	
-		
-		questions.add(new MultipleChoiceQuestion("What year was I born?", "A"));
-		questions.add(new MultipleChoiceQuestion("How many siblings do I have?", "D"));
-		questions.add(new TrueFalseQuestion("I am 21 years old.", "True"));
-		questions.add(new TrueFalseQuestion("I was born in Chicago.", "True"));
+
+	public void addParticipant(Student s) {
+		participants.add(s);
 	}
 	
-	public void printResultStatistics(Question q) {
-		
+	public void addQuestion(Question q) {
+		questions.add(q);
 	}
 	
-	public void start() {
-		for(Question q : questions) {
-			if((q.getClass().toString()).equalsIgnoreCase("class livePollPackage.TrueFalseQuestion"))
-				System.out.println("True/False Question: " + q.getQuestion());
-			else
-				System.out.println("Multiple Choice Question: " + q.getQuestion());
-			
-			System.out.println("The answer is: " + q.getAnswer());
+	public List<Question> getQuestions() {
+		return questions;
+	}
+	
+	public List<Student> getStudents() {
+		return participants;
+	}
+	
+	public void storeAnswers(String studentID, String studentAnswer) {
+		studentAnswers.put(studentID, studentAnswer);
+	}
+	public void generateStudentAnswers(Question q) {
+		if(q.isSingleAnswerQuestion()) {
+			for(Student s : participants) {
+				this.storeAnswers(s.getId(), trueFalseAnswers[r.nextInt(2)]);
+			}
 		}
+		else {
+			for(Student s : participants) {
+				this.storeAnswers(s.getId(), multipleChoiceAnswers[r.nextInt(4)]);
+			}
+		}
+	}
+	public void getResults() {
+		studentAnswers.forEach((k, v) -> {
+			System.out.printf("Student %s answered: %s\n", k, v);
+		});
+	}
+	public void printResultStatistics(Question q) {
+		Collection<String> answers = studentAnswers.values();
+		if(q.isMultipleChoiceQuestion()) 
+			System.out.printf("Result Statistics: A : %d  B : %d\tC : %d\tD : %d\n", Collections.frequency(answers, "A"), Collections.frequency(answers, "B"), Collections.frequency(answers, "C"), Collections.frequency(answers, "D"));
+		else 
+			System.out.printf("Result Statistics: True : %d\tFalse : %d\n", Collections.frequency(answers, "True"), Collections.frequency(answers, "False"));
 	}
 }

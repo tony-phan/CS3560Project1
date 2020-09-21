@@ -6,6 +6,7 @@ abstract class Question {
 
 	public abstract boolean isMultipleChoiceQuestion();
 	public abstract boolean isSingleAnswerQuestion();
+	public abstract String getAnswerChoices();
 	
 	public String getQuestion() {
 		return question;
