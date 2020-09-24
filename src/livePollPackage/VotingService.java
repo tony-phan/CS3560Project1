@@ -37,7 +37,13 @@ public class VotingService {
 	public List<Student> getStudents() {
 		return participants;
 	}
-	
+	public void multipleAnswerSubmission(Question q) {
+		Student randomStudent = participants.get(r.nextInt(participants.size()));
+		if(q.isSingleAnswerQuestion()) 
+			studentAnswers.replace(randomStudent.getId(), trueFalseAnswers[r.nextInt(2)]);
+		else
+			studentAnswers.replace(randomStudent.getId(), multipleChoiceAnswers[r.nextInt(4)]);
+	}
 	public void storeAnswers(String studentID, String studentAnswer) {
 		studentAnswers.put(studentID, studentAnswer);
 	}

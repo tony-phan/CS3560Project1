@@ -21,6 +21,13 @@ public class SimulationDriver {
 			poll.getResults();
 			System.out.println("The answer is " + q.getAnswer());
 			poll.printResultStatistics(q);
+			
+			//Simulate a situation where a student makes multiple submissions
+			poll.multipleAnswerSubmission(q);
+			System.out.println("A student has made multiple submissions. The new data is: ");
+			poll.getResults();
+			poll.printResultStatistics(q);
+			System.out.println();
 		}
 		System.out.println("The polling service has ended!");
 	}
