@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Random;
 
-public class VotingService {
+public class VotingService implements VotingInterface {
 	
 	private Random r = new Random();
 	private List<Question> questions;

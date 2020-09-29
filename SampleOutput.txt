@@ -1,0 +1,162 @@
+Welcome to the live poll service!
+Multiple Choice Question: What year was I born?	A: 1999	B: 2000	C: 2001	D: 2002
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: B
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: C
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: D
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: A
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: C
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: A
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: A
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: A
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: B
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: A
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: D
+Student e4db91bb-b210-4d34-8246-f633658123db answered: D
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: B
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: C
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: C
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: B
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: B
+The answer is A
+Result Statistics: A : 5  B : 5	C : 4	D : 3
+A student has made multiple submissions. The new data is: 
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: B
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: C
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: D
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: A
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: C
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: A
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: A
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: A
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: B
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: D
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: D
+Student e4db91bb-b210-4d34-8246-f633658123db answered: D
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: B
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: C
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: C
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: B
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: B
+Result Statistics: A : 4  B : 5	C : 4	D : 4
+
+Multiple Choice Question: How many siblings do I have?	A: 1	B: 0	C: 2	D: 5
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: A
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: C
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: A
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: C
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: C
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: C
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: A
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: C
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: D
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: C
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: C
+Student e4db91bb-b210-4d34-8246-f633658123db answered: D
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: C
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: D
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: B
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: B
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: B
+The answer is D
+Result Statistics: A : 3  B : 3	C : 8	D : 3
+A student has made multiple submissions. The new data is: 
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: A
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: C
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: A
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: C
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: C
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: C
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: A
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: C
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: D
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: A
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: C
+Student e4db91bb-b210-4d34-8246-f633658123db answered: D
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: C
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: D
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: B
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: B
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: B
+Result Statistics: A : 4  B : 3	C : 7	D : 3
+
+True/False Question: I am 21 years old.	True 	False
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: True
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: False
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: True
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: True
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: False
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: True
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: False
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: True
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: True
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: False
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: True
+Student e4db91bb-b210-4d34-8246-f633658123db answered: False
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: False
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: False
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: True
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: True
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: False
+The answer is True
+Result Statistics: True : 9	False : 8
+A student has made multiple submissions. The new data is: 
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: True
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: False
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: True
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: True
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: False
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: True
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: False
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: True
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: True
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: False
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: True
+Student e4db91bb-b210-4d34-8246-f633658123db answered: False
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: False
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: True
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: True
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: True
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: False
+Result Statistics: True : 10	False : 7
+
+True/False Question: I was born in Chicago.	True 	False
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: False
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: False
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: False
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: False
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: True
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: False
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: True
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: True
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: True
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: False
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: True
+Student e4db91bb-b210-4d34-8246-f633658123db answered: False
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: True
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: True
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: False
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: False
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: True
+The answer is True
+Result Statistics: True : 8	False : 9
+A student has made multiple submissions. The new data is: 
+Student 1b5bc871-a3ec-4682-9172-468e17473bb8 answered: False
+Student 4b43015e-0dac-4433-b2c9-bb7de0d09423 answered: False
+Student f14855ae-86c1-4e8d-abb0-a482b432ad3c answered: False
+Student 77fc8361-1a94-4d36-bc34-aaf1339a2e91 answered: False
+Student 74aa4c51-ec7a-48b4-bd4d-77c086931c7b answered: True
+Student 38217489-0be9-49cf-b320-e5f7fd63d975 answered: False
+Student 4fbc91a9-179d-4b2a-b82f-d7286a8b46f3 answered: True
+Student 92fdb361-b59c-47db-bec6-988447b65d89 answered: True
+Student e9201f31-3a44-4c7c-b0c5-fde27c41af08 answered: True
+Student af3fe13c-e34a-4bcc-b523-c8a2de088b64 answered: False
+Student f6db1b09-ae5f-4825-8e3c-2e0e6c2acd74 answered: True
+Student e4db91bb-b210-4d34-8246-f633658123db answered: False
+Student a1007550-5654-42f6-ae6e-db1f8fef43b1 answered: True
+Student b24ea732-80f2-4a52-9e5e-873300cf9d02 answered: True
+Student fd1eab3f-9036-4130-aac3-ad107c200493 answered: False
+Student 188f1e1c-b6f1-4717-b28c-a49336e1a551 answered: False
+Student 959d84f8-5166-4562-af30-b75c1519ad22 answered: False
+Result Statistics: True : 7	False : 10
+
+The polling service has ended!

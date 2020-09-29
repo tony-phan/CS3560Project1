@@ -1,5 +1,7 @@
 package livePollPackage;
 
+import java.util.Random;
+
 public class SimulationDriver {
 
 	public static void main(String[] args) {
@@ -38,7 +40,8 @@ public class SimulationDriver {
 		p.addQuestion(new TrueFalseQuestion("I am 21 years old.", "True"));
 		p.addQuestion(new TrueFalseQuestion("I was born in Chicago.", "True"));
 		
-		for(int i = 0; i < 4; i++) {
+		int numStudents = new Random().nextInt(20);
+		for(int i = 0; i < numStudents; i++) {
 			p.addParticipant(new Student());
 		}
 	}
